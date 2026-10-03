@@ -34,9 +34,11 @@ Using data preprocessing, exploratory data analysis, DAX modeling, and interacti
 * ✔ Quantified high-demand AI skills, led by **Python (942 postings)** and **SQL (422 postings)**, followed by **Deep Learning** and **Generative AI**
 * ✔ Identified a premium on specialized roles, where **LLM / GenAI positions average $208.1K** compared to **$190.1K for Non-LLM roles**
 
-🖥 **Power BI Dashboard Preview**
 
-Built with business users and talent strategists in mind — making it easy to explore hiring trends, salary benchmarks, skill demand, and geographic distribution through interactive filters[cite: 2].
+
+## 📊 Dashboard Preview
+
+![AI Job Market Dashboard](images/dashboard.png)
 
 🚀 **What Makes This Project Unique?**
 
