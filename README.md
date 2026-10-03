@@ -38,7 +38,7 @@ Using data preprocessing, exploratory data analysis, DAX modeling, and interacti
 
 ## 📊 Dashboard Preview
 
-![AI Job Market Dashboard](images/dashboard.png)
+!(images/dashboard.png)
 
 🚀 **What Makes This Project Unique?**
 
